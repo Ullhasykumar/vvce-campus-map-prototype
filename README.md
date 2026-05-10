@@ -16,7 +16,7 @@ Built with Leaflet.js and OpenStreetMap.
 - HTML / CSS / JavaScript (vanilla)
 - [Leaflet.js](https://leafletjs.com/) — interactive maps
 - [OpenStreetMap](https://www.openstreetmap.org/) — map tiles
-- Deployed on GitHub Pages
+- [Deployed on GitHub Pages](https://ullhasykumar.github.io/vvce-campus-map-prototype/)
 
 
 ## Project Status
