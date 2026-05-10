@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Main Block",
+    "lat": 12.3366,
+    "lng": 76.6187,
+    "description": "The central administrative and academic block of VVCE.",
+    "department": "Administration",
+    "hours": "9:00 AM - 5:00 PM",
+    "emoji": "🏢"
+  },
+  {
+    "name": "CSE Department",
+    "lat": 12.3367,
+    "lng": 76.6185,
+    "description": "Home to the Computer Science and Engineering department labs and classrooms.",
+    "department": "Computer Science",
+    "hours": "8:00 AM - 6:00 PM",
+    "emoji": "💻"
+  },
+  {
+    "name": "Mechanical Block",
+    "lat": 12.3364,
+    "lng": 76.6188,
+    "description": "Workshops and laboratories for Mechanical Engineering students.",
+    "department": "Mechanical Engineering",
+    "hours": "8:30 AM - 5:30 PM",
+    "emoji": "⚙️"
+  },
+  {
+    "name": "ECE Department",
+    "lat": 12.3365,
+    "lng": 76.6186,
+    "description": "Electronics and Communication Engineering department building.",
+    "department": "Electronics and Communication",
+    "hours": "8:30 AM - 5:30 PM",
+    "emoji": "📡"
+  },
+  {
+    "name": "Library",
+    "lat": 12.3368,
+    "lng": 76.6189,
+    "description": "Central library offering a vast collection of books, journals, and digital resources.",
+    "department": "Resources",
+    "hours": "8:00 AM - 8:00 PM",
+    "emoji": "📚"
+  },
+  {
+    "name": "Canteen",
+    "lat": 12.3369,
+    "lng": 76.6186,
+    "description": "Campus cafeteria serving meals and snacks for students and staff.",
+    "department": "Food Services",
+    "hours": "7:30 AM - 6:00 PM",
+    "emoji": "☕"
+  },
+  {
+    "name": "Sports Ground",
+    "lat": 12.3372,
+    "lng": 76.6190,
+    "description": "Outdoor sports facility for cricket, football, and athletics.",
+    "department": "Physical Education",
+    "hours": "6:00 AM - 7:00 PM",
+    "emoji": "⚽"
+  },
+  {
+    "name": "Auditorium",
+    "lat": 12.3365,
+    "lng": 76.6192,
+    "description": "Main auditorium for college events, seminars, and cultural fests.",
+    "department": "Events",
+    "hours": "Open during events",
+    "emoji": "🎭"
+  }
+]

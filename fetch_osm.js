@@ -1,0 +1,1 @@
+const fs = require('fs'); fetch('https://overpass-api.de/api/interpreter', { method: 'POST', body: '[out:json];(way[\"building\"](12.3350,76.6170,12.3380,76.6200););out geom;' }).then(res => res.json()).then(data => { fs.writeFileSync('osm_buildings.json', JSON.stringify(data, null, 2)); console.log('Done.'); }).catch(console.error);
