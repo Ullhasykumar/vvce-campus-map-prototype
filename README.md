@@ -21,7 +21,7 @@ Built with Leaflet.js and OpenStreetMap.
 
 ## Project Status
 
-🚧 Prototype — currently includes buildings and Navigation stuff.
+Prototype — currently includes buildings and Navigation stuff.
 Full campus coverage in progress.
 
 ## Author
